@@ -2,8 +2,8 @@
 {
   "show": true,
   "CheckR": true,
-  "com": false,
-  "published": false,
+  "com": true,
+  "published": true,
   "version": 1,
   "newAppLink": "com.Trailmix.LoveAndPiesMerges",
   
@@ -12,24 +12,23 @@
   
   "intersAds": true,
   "nbOrnAds": "mix",
-  "NativeCount": 2,
+  "NativeCount": 2, 
   "showOnlyOpen": false,
   "admbNbOrB": "nb",
   
-  
-  "admob": false,
+  "admob": true,
   "adsadmb": {
     "admb_banner": "ca-app-pub-3940256099942544/6300978111",
     
-    "admb_inters1": "ca-app-pub-7144089957930196/9451030750",
-    "admb_inters2": "ca-app-pub-7144089957930196/9451030750",
-    "admb_inters3": "ca-app-pub-7144089957930196/9451030750",
+    "admb_inters1": "ca-app-pub-7144089957930196/5212596366",
+    "admb_inters2": "ca-app-pub-7144089957930196/5212596366",
+    "admb_inters3": "ca-app-pub-7144089957930196/5212596366",
     
-    "admb_native1": "ca-app-pub-7144089957930196/8137949080",
-    "admb_native2": "ca-app-pub-7144089957930196/8137949080",
-    "admb_native3": "ca-app-pub-7144089957930196/8137949080",
+    "admb_native1": "ca-app-pub-7144089957930196/2586433023",
+    "admb_native2": "ca-app-pub-7144089957930196/2586433023",
+    "admb_native3": "ca-app-pub-7144089957930196/2586433023",
     
-    "admb_openad": "ca-app-pub-7144089957930196/5511785741"
+    "admb_openad": "ca-app-pub-7144089957930196/3899514694"
   },
   
   "onBackOpenAds": true,
@@ -37,7 +36,7 @@
   "unity": false, 
   "adsunity": {
     "unity_ids": "3478504",
-    "unity_id": "3667089s",
+    "unity_id": "3667089",
     "unity_inters": "video"
   }
-}
+} 
