@@ -20,15 +20,15 @@
   "adsadmb": {
     "admb_banner": "ca-app-pub-3940256099942544/6300978111",
     
-    "admb_inters1": "ca-app-pub-2364109173540543/2324501156",
-    "admb_inters2": "ca-app-pub-2364109173540543/2324501156",
-    "admb_inters3": "ca-app-pub-2364109173540543/2324501156",
+    "admb_inters1": "ca-app-pub-2555400651572549/7118915532",
+    "admb_inters2": "ca-app-pub-2555400651572549/7118915532",
+    "admb_inters3": "ca-app-pub-2555400651572549/7118915532",
     
-    "admb_native1": "ca-app-pub-2364109173540543/5034424973",
-    "admb_native2": "ca-app-pub-2364109173540543/5034424973",
-    "admb_native3": "ca-app-pub-2364109173540543/5034424973",
+    "admb_native1": "ca-app-pub-2555400651572549/5805833867",
+    "admb_native2": "ca-app-pub-2555400651572549/5805833867",
+    "admb_native3": "ca-app-pub-2555400651572549/5805833867",
     
-    "admb_openad": "ca-app-pub-2364109173540543/1011419488"
+    "admb_openad": "ca-app-pub-2555400651572549/3059772091"
   },
   
   "onBackOpenAds": true,
