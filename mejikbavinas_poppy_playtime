@@ -16,7 +16,7 @@
   "showOnlyOpen": false,
   "admbNbOrB": "nb",
   
-  "fan":false,
+  "fan":true,
   "adsfan":{
     "fan_banner": "1024734358445342_1025087695076675",
     "fan_inters": "1024734358445342_1024734428445335",
@@ -24,7 +24,7 @@
     "fan_native_banner": "1024734358445342_1025087695076675"
   },
   
-  "admob": true,
+  "admob": false,
   "adsadmb": {
     "admb_banner": "ca-app-pub-3940256099942544/6300978111",
     
